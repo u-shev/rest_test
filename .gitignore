@@ -1,0 +1,5 @@
+.venv
+rest/rest/.env
+rest/rest/__pycache__
+rest/food/__pycache__
+db.sqlite3
